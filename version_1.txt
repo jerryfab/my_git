@@ -1,5 +1,5 @@
-hello
-i
-am
-version
+你好
+我
+是
+版本
 6
